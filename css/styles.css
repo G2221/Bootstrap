@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.slider {
+    padding: 72px 0;
+}
+
+.slick-prev, .slick-next {
+    height: 40px;
+    width: 40px;
+}
+
+.slick-prev {
+    left: 13px;
+    z-index: 100;
+}
+
+.slick-prev::before {
+    content: url(../images/prevArrow.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.slick-next {
+    right: 13px;
+    z-index: 100;
+}
+
+.slick-next::before {
+    content: url(../images/nextArrow.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.hvr-sweep-to-right:before {
+    background: #0d6efd;
+}
+
+.ui-state-hover .ui-icon, .ui-state-focus .ui-icon, .ui-accordion-header-icon {
+    background: url("../images/accordion close.png");
+    position: absolute;
+    width: 20px;
+    height: 12px;
+    right: 27px;
+    top: 32px;
+}
+
+.ui-accordion-header-active .ui-accordion-header-icon {
+    background: url("../images/accordion open.png");
+    position: absolute;
+    width: 20px;
+    height: 12px;
+    right: 27px;
+    top: 32px;
+}
+

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b768193-de15-4db4-9314-c2d808fdd85f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="294vFIzfxgCcnu1qGwIDHQmleyv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Front/Tests/Test 9/css&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Front\Tests\Test 9\css" />
+      <recent name="F:\Front\Tests\Test 9\scripts" />
+      <recent name="F:\Front\Шаблонный проект\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Front\Шаблон\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b768193-de15-4db4-9314-c2d808fdd85f" name="Changes" comment="" />
+      <created>1652385067054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652385067054</updated>
+      <workItem from="1652385068164" duration="43000" />
+      <workItem from="1652512776490" duration="15000" />
+      <workItem from="1653111271316" duration="1538000" />
+      <workItem from="1653137359400" duration="2000" />
+      <workItem from="1653137372618" duration="6000" />
+      <workItem from="1654419481346" duration="1419000" />
+      <workItem from="1656662804598" duration="820000" />
+      <workItem from="1661517986545" duration="1378000" />
+      <workItem from="1661964227298" duration="618000" />
+      <workItem from="1662012940562" duration="103000" />
+      <workItem from="1662016324178" duration="60000" />
+      <workItem from="1662017466836" duration="574000" />
+      <workItem from="1662019161379" duration="598000" />
+      <workItem from="1662043145532" duration="1974000" />
+      <workItem from="1662217793118" duration="9891000" />
+      <workItem from="1662229728017" duration="7088000" />
+      <workItem from="1662276035755" duration="5031000" />
+      <workItem from="1662282191194" duration="8440000" />
+      <workItem from="1662292190253" duration="3844000" />
+      <workItem from="1662372190726" duration="2169000" />
+      <workItem from="1663227081350" duration="403000" />
+      <workItem from="1663227803930" duration="3791000" />
+      <workItem from="1663608647247" duration="801000" />
+      <workItem from="1666822773102" duration="848000" />
+      <workItem from="1666885348231" duration="689000" />
+      <workItem from="1666887440420" duration="2924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
